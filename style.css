@@ -1,0 +1,13 @@
+:root{
+  --text-color: #f7f6ea;
+}
+body {
+  font-family: 'Karla', sans-serif;
+  background-color: #addb85;
+}
+
+.time {
+  font-size: 200px;
+  color: var(--text-color);
+  /*font-weight: 700;*/
+}
